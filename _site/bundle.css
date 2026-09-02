@@ -1,0 +1,38 @@
+body {
+    background-color: lightcoral;
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    white-space: nowrap;
+}
+
+.navbar {
+    font-size: 24px;
+    display: flex;
+    justify-content: space-between;
+    max-width: 25%;
+    margin: 0 auto;
+}
+
+.iframe {
+    position: absolute;
+    top: 20%;
+    left: 25%;
+    width: 50%;
+    height: 75%;
+}
+
+.list {
+    padding-top: 30px;
+    text-align: center;
+}
